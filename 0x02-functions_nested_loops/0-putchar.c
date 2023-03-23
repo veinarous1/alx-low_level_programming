@@ -1,13 +1,15 @@
 #include "main.h"
-/**
- * main - print _putchar
- * is collated by bayo
- * Return: 0
- */
 
+/**
+ * main - Entry point for the program
+ *
+ * This function prints out the string "_putchar" using the _putchar function.
+ *
+ * Return: Always 0 (success)
+ */
 int main(void)
 {
-_putchar('_');
+	_putchar('_');
 _putchar('p');
 _putchar('u');
 _putchar('t');
